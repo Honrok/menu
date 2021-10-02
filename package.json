@@ -1,0 +1,19 @@
+{
+  "name": "menu",
+  "version": "1.0.0",
+  "description": "menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Honrok/menu.git"
+  },
+  "author": "S.R.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Honrok/menu/issues"
+  },
+  "homepage": "https://github.com/Honrok/menu#readme"
+}
