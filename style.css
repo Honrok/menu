@@ -1,0 +1,59 @@
+*, *:before, *:after{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0;
+}
+.logo img{
+    height: 200px;
+}
+.main{
+    color: #3e3e3e;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    min-height: 600px;
+}
+.list-of-dishes{
+    text-align: center;
+    min-height: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.list-of-dishes div{
+    font-size: 15px;
+    color:black;
+    font-weight: 200;
+    text-transform: uppercase;
+    width: 90%; 
+}
+.chapters-name{
+    font-weight: bold;
+    font-size: 40px;
+    text-decoration: underline 2px #3e3e3e;
+}
+.position{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.dish{
+    margin-bottom: 30px;
+}
+.dish span{
+    font-weight: bold;
+}
+.position img{
+    width: 300px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+
